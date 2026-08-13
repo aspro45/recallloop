@@ -8,6 +8,7 @@ RecallLoop is a GenLayer Studionet application for product recall containment op
 
 | Layer | Implementation |
 | --- | --- |
+| Live app | [recallloop-protocol.vercel.app](https://recallloop-protocol.vercel.app) |
 | Network | GenLayer Studionet, chain `61999` |
 | Contract | [`0x4f8fBEF918b97c58Ea95a82AB3d79F376169Dfe1`](https://explorer-studio.genlayer.com/address/0x4f8fBEF918b97c58Ea95a82AB3d79F376169Dfe1) |
 | Reasoning | `gl.nondet.web.render`, `gl.nondet.exec_prompt`, comparative validator consensus |
