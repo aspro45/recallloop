@@ -1,0 +1,24 @@
+{
+  "project": "54-recallloop",
+  "name": "RecallLoop",
+  "network": "studionet",
+  "chainId": 61999,
+  "rpc": "https://studio.genlayer.com/api",
+  "explorer": "https://explorer-studio.genlayer.com",
+  "contractAddress": "0x4f8fBEF918b97c58Ea95a82AB3d79F376169Dfe1",
+  "deployTxHash": "0xfb887fa2f44f1dc5433a0cc8fc13d1723e7c330880658d38f13919f3ed3d6038",
+  "contractExplorer": "https://explorer-studio.genlayer.com/address/0x4f8fBEF918b97c58Ea95a82AB3d79F376169Dfe1",
+  "deployer": "0x6D1B3C0a189635F6c2cE759bdD463729249753Fe",
+  "deployedAt": "2026-08-11T04:28:27.667Z",
+  "statusName": "FINALIZED",
+  "smoke": {
+    "create_case": "0x3cac02402eb295bb1f037cd26a8ca2ff3d92096a5d73a853b0a181d8c702fc32",
+    "caseId": "0",
+    "review": "0xbf405503f3efb7b777d9dff81f7b358e1440ebe8d79d5e17e968382627c72db4",
+    "child_a": "0xb1e42f5ec5c5822102462db9d5824cc759c302fd49896ac5a595065367f7031c",
+    "child_b": "0x7982f403f5e634471b8a09e8a89c211f12df441a3721841666c39c6f0210ae02",
+    "add_evidence_web": "0x99b0ca26f80484e65d2f2efba76a8b4e5aae65788397f8eeb483f68faf042742",
+    "add_evidence_security": "0x547a98641d6e23bddaa715eb1507df0849cf41efcb5c3dc7e6a2f7d488b59299",
+    "add_evidence_whitepaper": "0xceedc9eea1706fb20e597bdf7de62b21c0de9dc6f14774df763da990511af3e5"
+  }
+}

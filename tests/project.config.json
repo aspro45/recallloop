@@ -1,0 +1,12 @@
+{
+  "project": "54-recallloop",
+  "className": "RecallLoop",
+  "file": "recallloop.py",
+  "create": "open_recall",
+  "resolve": "assess_containment_with_genlayer",
+  "archive": "archive_recall",
+  "count": "get_recall_count",
+  "get": "get_recall",
+  "childA": "add_affected_lot",
+  "childB": "add_distribution_destination"
+}
