@@ -175,7 +175,7 @@ const STUDIONET_HEX = '0xf22f';
 const RPC = 'https://studio.genlayer.com/api';
 const EXPLORER_TX = 'https://explorer-studio.genlayer.com/tx/';
 const CACHE_KEY = `genlayer:snapshot:${contractState.address.toLowerCase()}`;
-const CACHE_TTL_MS = 30_000;
+const CACHE_TTL_MS = 300_000;
 let serverSnapshotCache: { savedAt: number; snapshot: OnchainSnapshot } | null = null;
 const OnchainContext = createContext<OnchainContextValue | null>(null);
 
